@@ -28,7 +28,7 @@ twitter_username: angry_mango
 github_username:  angrymango
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
